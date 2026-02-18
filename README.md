@@ -1,5 +1,5 @@
 # What I do
-I take on random projects because I enjoy building things. I make themes, homebrew apps when I can, and quick tools to solve problems.
+I take on random projects because I enjoy building things. I make themes, homebrew apps when I can, and deep script tester to solve problems.
 
 ---
 
