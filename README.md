@@ -56,7 +56,7 @@ Short asnwer: I like solving problems, helping people, and modding stuff.
     </td>
     <td align="center" width="120">
       <img src="https://cdn.simpleicons.org/playstation/003791" width="48" alt="PS4 Research" /><br/>
-      <strong>PS4 Research</strong>
+      <strong>PS4 For Research</strong>
     </td>
   </tr>
 </table>
