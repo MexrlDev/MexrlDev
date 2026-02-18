@@ -38,6 +38,31 @@ Short asnwer: I like solving problems, helping people, and modding stuff.
 
 ---
 
+## What programs I use
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br/>
+      <strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/filezilla/BF0000" width="48" alt="FileZilla" /><br/>
+      <strong>FileZilla</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/playstation/003791" width="48" alt="PS4 Research" /><br/>
+      <strong>PS4 Research</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## What I make
 - Theme UIs and front-end skins  
 - Modding tools and homebrew experiments  
