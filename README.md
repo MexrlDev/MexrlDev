@@ -92,3 +92,11 @@ If it helps me understand how something works or makes it cooler, I’ll build i
 
 ## NickNames
 - **Honestly? i go with mexrl/Max/MexrlDev**
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/MexrlDev/MexrlDev/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/MexrlDev/MexrlDev/refs/heads/output/github-contribution-grid-snake-dark.svg">
+</picture>
