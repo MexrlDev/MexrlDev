@@ -1,16 +1,73 @@
-## Hi there 👋
+# What I do
+I take on random projects because I enjoy building things. I make themes, homebrew apps when I can, and quick tools to solve problems.
 
-<!--
-**MexrlDev/MexrlDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About me
+- I build JavaScript themes and front-end stuff, and I write tools in Python.  
+- I use Lua for small embedded or modding projects.  
+- Console modding, menus, and homebrew app development when time and firmware allow.  
+- Beginner in reverse engineering — I do small tooling and UI work for exploit menus as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Short asnwer: I like solving problems, helping people, and modding stuff.
+
+---
+
+## Tech I use
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,lua,bash,html,css" alt="tech icons" />
+</p>
+
+---
+
+## what i work with
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br/>
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=lua" width="48" alt="Lua" /><br/>
+      <strong>Lua</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br/>
+      <strong>HTML</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I make
+- Theme UIs and front-end skins  
+- Modding tools and homebrew experiments  
+- Small web UIs and internal prototypes  
+- Proofs-of-concept for research and learning
+
+If it helps me understand how something works or makes it cooler, I’ll build it.
+
+---
+
+## Projects
+- **Vue After Free Themes** — UI theme library  
+- **Python Tools** — handy scripts for various tasks
+
+---
+
+## Current focus
+- Improving UI so people enjoy using my stuff  
+- Cleaner animations and transitions  
+- Learning more every day
+
+---
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MexrlDev&show_icons=true&theme=default)  
+![Profile views](https://komarev.com/ghpvc/?username=MexrlDev)
