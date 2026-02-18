@@ -13,6 +13,10 @@ Short asnwer: I like solving problems, helping people, and modding stuff.
 
 ---
 
+## Fav manga
+- **Gye Baek-sun** - She's Literally me. 
+
+---
 ## what i work with
 
 <table>
