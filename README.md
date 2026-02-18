@@ -13,13 +13,6 @@ Short asnwer: I like solving problems, helping people, and modding stuff.
 
 ---
 
-## Tech I use
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,lua,bash,html,css" alt="tech icons" />
-</p>
-
----
-
 ## what i work with
 
 <table>
