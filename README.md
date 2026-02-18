@@ -86,11 +86,5 @@ If it helps me understand how something works or makes it cooler, I’ll build i
 
 ---
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MexrlDev&show_icons=true&theme=default)  
-![Profile views](https://komarev.com/ghpvc/?username=MexrlDev)
-
----
-
 ## NickNames
 - **Honestly? i go with mexrl/Max/MexrlDev**
