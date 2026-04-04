@@ -78,9 +78,9 @@ If it helps me understand how something works or makes it cooler, I’ll build i
 ---
 
 ## Projects
-- **Vue After Free Themes** — UI theme library  
+- **Vue After Free Themes** — UI theme library, and now DevTools for vue
 - **Python Tools** — handy scripts for various tasks
-
+- **Star Wars Racer Revange** - Mods, and some payloads made by me
 ---
 
 ## Current focus
@@ -91,7 +91,7 @@ If it helps me understand how something works or makes it cooler, I’ll build i
 ---
 
 ## NickNames
-- **Honestly? i go with mexrl/Max/MexrlDev**
+- **Mexrl or Max or MexrlDev**
 
 ---
 
