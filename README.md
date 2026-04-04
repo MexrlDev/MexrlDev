@@ -9,7 +9,7 @@ I take on random projects because I enjoy building things. I make themes, homebr
 - Console modding, menus, and homebrew app development when time and firmware allow.  
 - Beginner in reverse engineering — I do small tooling and UI work for exploit menus as I learn.
 
-Short asnwer: I like solving problems, helping people, and modding stuff.
+In Short: I like solving problems, helping people, and make stuff better and helpful.
 
 ---
 
@@ -68,8 +68,8 @@ Short asnwer: I like solving problems, helping people, and modding stuff.
 ---
 
 ## What I make
-- Theme UIs and front-end skins  
-- Modding tools and homebrew experiments  
+- Theme UIs and Helpful Tools and Researches
+- Payloads  
 - Small web UIs and internal prototypes  
 - Proofs-of-concept for research and learning
 
