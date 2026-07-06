@@ -1,6 +1,6 @@
 # About me
 - I am not a dev anymore
-- any accounts exists with the username "mexrl, mexrldev, max" is not me. i wuot a long time ago and this is my only account which i dont use anymore and wont use anytime soon or so. because i have quit for good. thank you, and please do not contact me or try to conact thr usernames because they might be random ppl <3
+- any accounts exists with the username "mexrl, mexrldev, max" is not me. i quit a long time ago and this github acc is my only account which i dont use anymore and wont use anytime soon or so. because i have quit for good. thank you, and please do not contact me or try to conact thr usernames because they might be random ppl <3
 ---
 ## Past Projects
 - **Vue After Free Themes** — UI theme library, and now DevTools for vue
