@@ -8,6 +8,7 @@
 
 ## Related accounts to Mexrl
 - [EtaWen](https://git.etawen.dev/x)
+- [The Story Of MexrlDev](https://github.com/MexrlDev/PsVue-Mod#the-story-of-mexrldev)
 
 ---
 
