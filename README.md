@@ -2,12 +2,14 @@
 
 - i was a developer for the playstation community, and live to help people and develol fun things for playstation and mod them. but i retired. now i am a normal developer that are living their life, indeed doesnt develop like before or for playstation.
   
-- any accounts exists with the username "mexrl, mexrldev, max" is not me. i quit a long time ago and this github acc is my only account which i dont use anymore and wont use anytime soon or so. because i have quit for good. thank you, and please do not contact me or try to conact thr usernames because they might be random ppl <3
-  
+- 
+
 ---
 
-## Related accounts to Mexrl
+## Related to Mexrl
+- [MexrlDev twitter](https://x.com/mexrl)
 - [EtaWen](https://git.etawen.dev/x)
+- [BlueSky](https://bsky.app/profile/mexrl.bsky.social)
 - [The Story Of MexrlDev](https://github.com/MexrlDev/PsVue-Mod#the-story-of-mexrldev)
 
 ---
