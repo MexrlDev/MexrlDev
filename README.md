@@ -21,7 +21,7 @@ Oh yeah also found a partner i love, helped me through depression. feels really 
  **Twitter / X** | [@MexrlDev](https://x.com/mexrl) |
 |  **EtaWen Git** | [git.etawen.dev/x](https://git.etawen.dev/x) |
 | **BlueSky** | [@mexrl.bsky.social](https://bsky.app/profile/mexrl.bsky.social) |
-| **Mexrl Story** | [The Story of MexrlDev](https://github.com/MexrlDev/PsVue-Mod#the-story-of-mexrldev) |
+| **My Wsbsite** | [MAXIIIII :3](https://MexrlDev.github.io) |
 
 ---
 
