@@ -8,9 +8,7 @@
 
 I was a developer in the PlayStation community, building mods, payloads, and fun tools for the scene. I loved helping people and tinkering with codes. But after all... I retired from that life.
 
-Now? I'm just a normal developer living my life still coding, but at my own pace. I don't develop like I used to, and I don't target PlayStation anymore. But the hobby i had.. welp.. it never left me somehow.. thats why i relunched MexrlDev.. indeed i can help in some projects and other but.. i dont think i have the same energy anymore.. ble-
-
-Oh yeah also found a partner i love, helped me through depression. feels really peaceful and happy now :3
+Now? I'm just a normal developer living my life still coding, but at my own pace. I don't develop like I used to, and I don't target PlayStation anymore. But the hobby i had.. welp.. it never left me somehow.. thats why i relunched MexrlDev.. indeed i can help in some projects and other things, INDEED I AM RESEARCHING AND GETTING MORE CONSOLES TO ADD TO MY COLLECTION… oh yeah, i love experimenting with them heh >:3
 
 ---
 
@@ -21,6 +19,7 @@ Oh yeah also found a partner i love, helped me through depression. feels really 
  **Twitter / X** | [@MexrlDev](https://x.com/mexrl) |
 |  **EtaWen Git** | [git.etawen.dev/x](https://git.etawen.dev/x) |
 | **BlueSky** | [@mexrl.bsky.social](https://bsky.app/profile/mexrl.bsky.social) |
+| **Reddit** | [@qzei](https://www.reddit.com/u/qzei/s/L6aMCxVyYm) |
 | **My Wsbsite** | [MAXIIIII :3](https://MexrlDev.github.io) |
 
 ---
