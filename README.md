@@ -39,10 +39,12 @@ Now? I'm just a normal developer living my life still coding, but at my own pace
 </details
 
 ---
-
+  
 ## Email
+<details>
+<summary><b>Click to expand</b></summary>
 
-| Project | Description |
+| Mail | @ |
 | :--- | :--- |
 | MexrlDev | @gmail.com |
 
