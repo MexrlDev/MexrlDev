@@ -40,6 +40,16 @@ Now? I'm just a normal developer living my life still coding, but at my own pace
 
 ---
 
+## Email
+
+| Project | Description |
+| :--- | :--- |
+| MexrlDev | @gmail.com |
+
+</details
+
+---
+
 ## Contribution
 
 <picture>
