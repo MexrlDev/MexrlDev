@@ -10,6 +10,8 @@ I was a developer in the PlayStation community, building mods, payloads, and fun
 
 Now? I'm just a normal developer living my life still coding, but at my own pace. I don't develop like I used to, and I don't target PlayStation anymore. But the hobby i had.. welp.. it never left me somehow.. thats why i relunched MexrlDev.. indeed i can help in some projects and other things, INDEED I AM RESEARCHING AND GETTING MORE CONSOLES TO ADD TO MY COLLECTION… oh yeah, i love experimenting with them heh >:3
 
+I am also taken and I love them so much
+
 ---
 
 ## Related to me
