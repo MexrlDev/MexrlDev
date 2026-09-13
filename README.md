@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=440&lines=MexrlDev+Short+Bio;Just+A+Short+Story" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=440&lines=MexrlDev+Short+Bio" alt="Typing SVG">
 </p>
 
 ---
 
 # About Me
 
-I was a developer in the PlayStation community, building mods, payloads, and fun tools for the scene. I loved helping people and tinkering with codes. But after all... I retired from that life.
+I was a developer in the PlayStation community, building mods, payloads, and fun tools for the scene. I loved helping people and tinkering with codes, but I don’t really work on lots of things for ps now. even tho still do a little.
 
 Now? I'm just a normal developer living my life still coding, but at my own pace. I don't develop like I used to, and I don't target PlayStation anymore. But the hobby i had.. welp.. it never left me somehow.. thats why i relunched MexrlDev.. indeed i can help in some projects and other things, INDEED I AM RESEARCHING AND GETTING MORE CONSOLES TO ADD TO MY COLLECTION… oh yeah, i love experimenting with them heh >:3
 
