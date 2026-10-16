@@ -1,10 +1,6 @@
 # About Me
 
-I was a developer in the PlayStation community, building mods, payloads, and fun tools for the scene. I loved helping people and tinkering with codes, but I don’t really work on lots of things for PS now, even tho still do a little.
-
-Now? I'm just a normal developer living my life still coding, but at my own pace. I don't develop like I used to, and I don't target PlayStation anymore. But the hobby I had.. welp.. it never left me somehow.. thats why I relaunched MexrlDev.. indeed I can help in some projects and other things, INDEED I AM RESEARCHING AND GETTING MORE CONSOLES TO ADD TO MY COLLECTION… oh yeah, I love experimenting with them heh >:3
-
-I am also taken and I love them so much
+I was a developer in the PlayStation community and making tweaks for apps such as PsVue after Vue after free came out, I stopped for a while and deleted my old Twitter account and took a break and now I am back doing cool stuff for the ps! and Xbox too.. at some point
 
 ---
 
