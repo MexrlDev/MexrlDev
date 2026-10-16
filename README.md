@@ -110,9 +110,7 @@ I was a developer in the PlayStation community and making tweaks for apps such a
 <details>
 <summary><b>Click to expand</b></summary>
 
-| Mail | |
-| :--- | :--- |
-| MexrlDev | @gmail.com |
+I deleted that Gmail - sorryyy
 
 </details>
 
